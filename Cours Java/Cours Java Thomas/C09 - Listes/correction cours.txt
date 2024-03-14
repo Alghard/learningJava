@@ -1,0 +1,21 @@
+// Instanciation de la liste de Comptes
+ArrayList<Compte> lesComptes = new ArrayList<Compte>();
+
+// premier compte, de M. Dupont
+Compte c1 = new Compte(12345, "Dupont", 1000, -500);
+
+// ajout du compte à la liste
+lesComptes.add( c1  ) ;
+
+// 2ème compte
+Compte c2 = new Compte(19885, "Sakho", 2000, -500);
+lesComptes.add( c2  ) ;
+
+for (Compte unCompte : lesComptes)
+{
+	System.out.println  (  unCompte.toString()   ) ;
+}
+for (int i = 0 ; i< lesComptes.size() ; i++)
+{
+	System.out.println  (  lesComptes.get(i)   ) ;
+}

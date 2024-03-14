@@ -1,0 +1,5 @@
+pour l'exo :
+
+faire d'abord la recherche du max  (initialisé à 0 ?)
+
+faire le min ensuite

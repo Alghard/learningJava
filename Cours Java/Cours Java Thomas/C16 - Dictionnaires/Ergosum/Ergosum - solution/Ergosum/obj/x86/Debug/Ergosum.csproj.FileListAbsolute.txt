@@ -1,0 +1,8 @@
+C:\Users\Mat\Dropbox\COURS 2013-2014\SLAM4\Cours\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\bin\Debug\Ergosum.exe
+C:\Users\Mat\Dropbox\COURS 2013-2014\SLAM4\Cours\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\bin\Debug\Ergosum.pdb
+C:\Users\Mat\Dropbox\COURS 2013-2014\SLAM4\Cours\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\obj\x86\Debug\Ergosum.exe
+C:\Users\Mat\Dropbox\COURS 2013-2014\SLAM4\Cours\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\obj\x86\Debug\Ergosum.pdb
+C:\Users\Mat\Dropbox\COURS 2014-2015\SLAM4\COURS\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\obj\x86\Debug\Ergosum.exe
+C:\Users\Mat\Dropbox\COURS 2014-2015\SLAM4\COURS\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\obj\x86\Debug\Ergosum.pdb
+C:\Users\Mat\Dropbox\COURS 2014-2015\SLAM4\COURS\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\bin\Debug\Ergosum.exe
+C:\Users\Mat\Dropbox\COURS 2014-2015\SLAM4\COURS\C10 - Dictionnaires\Ergosum\Ergosum - solution\Ergosum\bin\Debug\Ergosum.pdb

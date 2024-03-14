@@ -1,0 +1,4 @@
+classe IP :
+
+- contrôle de saisie dans l'IHM
+
